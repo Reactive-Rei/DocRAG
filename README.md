@@ -9,8 +9,6 @@ Welcome to **DocRAG**, a comprehensive course that guides you through the basics
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
