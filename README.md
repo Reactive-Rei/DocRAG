@@ -1,6 +1,6 @@
 # DocRAG
 
-Welcome to **DocRAG**, a comprehensive course that guides you through the basics and advanced techniques of Retrieval-Augmented Generation (RAG) for chatting with personal documents. This course is designed to help you build, understand, and optimize a RAG system.
+Welcome to **DocRAG**, this project is aimed at exploring and implementing Retrieval-Augmented Generation (RAG) for chatting with personal documents. It helps in understanding and building a RAG system, while diving into advanced techniques and avoiding common pitfalls.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Welcome to **DocRAG**, a comprehensive course that guides you through the basics
 - Exploring advanced techniques.
 - Understanding the pitfalls of naive RAG implementations.
 
-## Course Overview
+## Project Overview
 
 The course is divided into several modules:
 
